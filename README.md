@@ -1,8 +1,8 @@
 # FormBuilders
 ISAT Form Builder
-# Instalasi
-1. buka terminal/command Prompt 
-2. git https://github.com/Stradivary/Form-Builders.git
-3. masuk ke dalam folder Form-Builders (cd Form-Builders)
-4. ketik npm install
+# Instalation
+1. open terminal/command Prompt 
+2. git clone https://github.com/Stradivary/Form-Builders.git
+3. enter into Form-Builders directory (cd Form-Builders)
+4. npm install
 5. npm start 
